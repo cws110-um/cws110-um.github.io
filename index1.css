@@ -1,0 +1,54 @@
+body {
+    background-color: rgb(173, 216, 228);
+}
+h1 {
+    font-family: "Shantell Sans", Georgia, 'Times New Roman', Times, serif;
+    font-size: 80px;
+    color: rgb(35, 35, 72);
+    border-style: ridge;
+    border-width: 10px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+    margin: 0;
+}
+#p1 {
+    font-family: "Bruno Ace SC", 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: inherit;
+    text-align: center;
+    font-size: 40px;
+}
+
+#p2 {
+    font-family: "Bruno Ace SC", 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: inherit;
+    font-size: 40px;
+    text-align: center;
+}
+
+#p3 {
+    font-family:"Volkhov", 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-style: dotted;
+    border-color: rgb(255, 255, 255);
+    font-size: 30px;
+    border-width: 5px;
+    text-align: center;
+}
+
+#pg2 {
+    border-style: dotted;
+    color: antiquewhite;
+    font-size: 20px;
+    border-color: antiquewhite;
+    text-align: center;
+}
+
+#pg3a {
+    border-style: dotted;
+    color: antiquewhite;
+    font-size: 20px;
+    border-color: antiquewhite;
+    text-align: center;
+}
