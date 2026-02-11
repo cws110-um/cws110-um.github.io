@@ -1,0 +1,57 @@
+
+body {
+    background:
+        radial-gradient(circle, rgba(255,255,255,0.2), black),
+        repeating-linear-gradient(
+            45deg,
+            gold,
+            gold 12px,
+            red 12px,
+            red 24px,
+            blue 24px,
+            blue 36px
+        );
+
+}
+
+
+h1 {
+    font-family: "Sixtyfour", Georgia, serif;
+    font-size: 90px;
+    color: gold;
+    letter-spacing: 6px;
+    border: double 12px gold;
+    padding: 40px;
+    margin: 0;
+    background-color: rgba(0, 0, 0, 0.85);
+}
+
+
+body .story {
+    font-family: "Saira Stencil One", Arial, sans-serif;
+    font-size: 42px;
+    color: antiquewhite;
+    background-color: rgba(0, 0, 0, 0.75);
+    border: dashed 6px gold;
+}
+
+body .choice {
+    font-family: "Sixtyfour", Courier, monospace;
+    font-size: 50px;
+    background-color: gold;
+    color: black;
+    border: solid 6px black;
+}
+
+
+body .choice:hover {
+    background-color: white;
+    color: black;
+    border-color: gold;
+}
+
+#win{
+   
+    width: 60%;
+    margin-left: 20%;
+}

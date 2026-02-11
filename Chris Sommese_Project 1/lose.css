@@ -1,0 +1,44 @@
+
+body {
+    background: radial-gradient(circle, #222, black);
+    min-height: 100vh;
+}
+
+
+h1 {
+    font-family: "Times New Roman", Georgia, serif;
+    font-size: 85px;
+    color: darkred;
+    letter-spacing: 6px;
+    border-bottom: solid 8px darkred;
+    padding: 40px 0;
+    margin: 0;
+    text-shadow: 4px 4px black;
+}
+
+
+.story {
+    font-family: "Courier New", Courier, monospace;
+    font-size: 38px;
+    background-color: rgba(0, 0, 0, 0.7);
+    border: solid 4px #444;
+    color: #bbb;
+}
+
+
+.choice {
+    font-family: "Courier New", Courier, monospace;
+    font-size: 45px;
+    background-color: #222;
+    color: #aaa;
+    border: dashed 5px #555;
+}
+
+
+.choice:hover {
+    background-color: #444;
+    color: white;
+    border-color: #aaa;
+}
+
+

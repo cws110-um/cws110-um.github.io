@@ -1,0 +1,53 @@
+
+body {
+    background:
+        radial-gradient(circle, rgba(255,255,255,0.3), black),
+        linear-gradient(135deg, teal, purple);
+    text-align: center;
+    color: white;
+}
+
+
+ h1 {
+    font-family: "Sixtyfour", Georgia, serif;
+    font-size: 100px;
+    color: rgb(255, 230, 0);
+    letter-spacing: 5px;
+    border: dotted 10px rgb(255, 230, 0);
+    padding: 40px;
+    margin: 0;
+    background-color: rgba(0, 0, 0, 0.75);
+}
+
+.story {
+    font-family: "Saira Stencil One", Arial, sans-serif;
+    font-size: 40px;
+    margin: 35px auto;
+    width: 70%;
+    background-color: rgba(0, 0, 0, 0.6);
+    padding: 20px;
+    border-radius: 15px;
+}
+
+.choice {
+    display: inline-block;
+    margin-top: 40px;
+    font-family: "Sixtyfour", Courier, monospace;
+    font-size: 50px;
+    color: black;
+    background-color: rgb(255, 230, 0);
+    padding: 25px 60px;
+    border: solid 6px black;
+}
+
+
+.choice:hover {
+    background-color: white;
+    color: black;
+    border-color: rgb(255, 230, 0);
+}
+
+#end{
+   
+    width: 40%;
+}
