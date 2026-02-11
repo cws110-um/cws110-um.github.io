@@ -1,0 +1,58 @@
+body {
+    background: linear-gradient(red, white, blue);
+}
+h1 {
+    font-family: "Sixtyfour", Georgia, 'Times New Roman', Times, serif;
+    font-size: 80px;
+    color: rgb(255, 251, 0);
+    border-style:dotted;
+    border-width: 10px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+    margin: 0;
+}
+
+h1:hover {
+    font-family: "Sixtyfour", Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(4, 0, 255);
+    font-size: 80px;
+    text-align: center;
+    background-color: rgb(255, 251, 0);
+    border-style:dotted;
+    border-width: 10px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin: 0;
+}
+
+#p1 {
+    font-family: "Saira Stencil One", 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: inherit;
+    text-align: center;
+    font-size: 55px;
+}
+
+#p2 {
+    font-family: "Saira Stencil One", 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: inherit;
+    text-align: center;
+    font-size: 55px;
+}
+
+#img1{
+   
+    width: 40%;
+    margin-left: 30%;
+}
+#pg2 {
+    font-family: "Sixtyfour", Courier, monospace;
+    border-style: dotted;
+    border-width: 10px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    color: rgb(255, 251, 0);
+    font-size: 80px;
+    border-color: rgb(255, 251, 0);
+    text-align: center;
+}

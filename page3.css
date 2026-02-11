@@ -1,0 +1,53 @@
+
+body {
+    background: linear-gradient(to bottom, navy, black);
+    text-align: center;
+    color: white;
+}
+
+
+body h1 {
+    font-family: "Sixtyfour", Georgia, serif;
+    font-size: 75px;
+    color: rgb(255, 230, 0);
+    letter-spacing: 5px;
+    border-bottom: solid 8px rgb(255, 230, 0);
+    padding: 30px 0;
+    margin: 0;
+}
+
+
+.corner {
+    margin: 60px auto;
+    width: 65%;
+    background-color: rgba(0, 0, 0, 0.75);
+    border: dashed 6px white;
+    padding: 30px;
+}
+
+
+.coach {
+    font-family: "Rubik Dirt", Arial, sans-serif;
+    font-size: 38px;
+    margin: 25px 0;
+}
+
+
+#nextRoundBtn {
+    display: inline-block;
+    margin-top: 30px;
+    font-family: "Sixtyfour", Courier, monospace;
+    font-size: 48px;
+    color: rgb(255, 230, 0);
+    text-decoration: none;
+    border: dotted 8px rgb(255, 230, 0);
+    padding: 25px 50px;
+    background-color: black;
+}
+
+
+#nextRoundBtn:hover {
+    background-color: rgb(255, 230, 0);
+    color: black;
+    border-color: black;
+}
